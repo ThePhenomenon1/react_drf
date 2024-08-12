@@ -1,0 +1,2 @@
+# react_drf
+This is a beautiful fullstack; a working React frontend using Typescript with a Django backend. The React app fetches data from the Django API and displays it.
