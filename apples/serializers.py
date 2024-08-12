@@ -11,5 +11,3 @@ def serialize_apples(apples: Iterable[Apple]) -> List[Dict[str, Any]]:
             'photo_url': apple.photo_url,
         })
     return data
-
-# You now have a working React frontend with a Django backend. The React app fetches data from the Django API and displays it. Typescript
